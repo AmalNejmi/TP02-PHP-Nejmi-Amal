@@ -32,7 +32,7 @@ for ($ligne = 1; $ligne <= 6; $ligne++) {
     for ($etoile = 1; $etoile <= $ligne; $etoile++) {
         echo "*";
     }
-
+    
     echo "\n";
 }
 
