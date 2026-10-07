@@ -51,3 +51,4 @@
 # Exercice 10 (Partie A) :
 - Avec la méthode **GET**, les données du formulaire sont transmises directement visibles dans la barre d'adresse de l'URL après un point d'interrogation (`?`), sous forme de paires clé/valeur (ex: `?nom=...&prenom=...&groupe=...`).
 
+

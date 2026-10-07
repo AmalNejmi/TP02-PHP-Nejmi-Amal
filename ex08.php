@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
+  <head>
     <meta charset="UTF-8">
     <title>Exercice 8</title>
-</head>
+  </head>
 
 <body>
 
