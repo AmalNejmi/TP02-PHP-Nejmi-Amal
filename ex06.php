@@ -7,13 +7,9 @@
 <body>
     <h1>Exercice 6</h1>
     <?php
-    // 1. Déclaration de la variable avec une valeur fixe (ex: 3)
-     $numeroMois = 15;
-
-    // 5. Remplacement par le mois courant du serveur
+     $numeroMois = 3;
     //$numeroMois = (int) date("m");
-
-    // 2 & 3. Structure switch pour afficher le mois correspondant
+    
     switch ($numeroMois) {
         case 1:
             echo "Janvier";
